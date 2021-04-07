@@ -5,7 +5,7 @@ Select a specific Asian food:
 
 [Greek](greek.md)
 
-[Japanese](mediterranean.md)
+[Mediterranean](mediterranean.md)
 
 ---
 [Start Over](../home.md)
