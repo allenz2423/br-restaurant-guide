@@ -1,9 +1,7 @@
 # Bay Ridge Restaurant Guide
-## Asian --> Thai
+## European --> Greek
 ---
 Select a restaurant:
-
-[Glow Thai](http://glowthai.com/)
 
 ---
 [Back to Asian](asian.md)
